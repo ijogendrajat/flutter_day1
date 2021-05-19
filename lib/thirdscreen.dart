@@ -11,6 +11,7 @@ import 'package:flutter_day1/firstscreen.dart';
 //         title: Text('Third Screen'),
 //       ),
 //       body: Center(
+//get data from second screen as new variable and just use $user $name $mail and  add a delete button ?//
 //         child: ElevatedButton(
 //           // Within the `FirstScreen` widget
 //           onPressed: () {
